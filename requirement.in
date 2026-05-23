@@ -1,0 +1,72 @@
+# Project Requirements – Mini Game (Tic Tac Toe in C++)
+
+## Hardware Requirements
+
+* Computer/Laptop
+* Minimum 2 GB RAM
+* Keyboard and Monitor
+
+---
+
+## Software Requirements
+
+* Operating System: Windows / Linux / macOS
+* C++ Compiler:
+
+  * Turbo C++
+  * GCC
+  * Code::Blocks
+  * Dev C++
+  * Visual Studio Code
+
+---
+
+## Programming Language
+
+* C++
+
+---
+
+## Functional Requirements
+
+The game should:
+
+1. Display the Tic Tac Toe board dynamically.
+2. Allow two players to enter moves.
+3. Validate user input.
+4. Update the board after every move.
+5. Detect winning conditions.
+6. Detect draw situations.
+7. Provide replay functionality.
+8. Show game results clearly.
+
+---
+
+## Technical Requirements
+
+* Use arrays for board storage.
+* Use loops for continuous gameplay.
+* Use conditional statements for logic checking.
+* Use functions for modular programming.
+* Implement user input handling.
+
+---
+
+## Non-Functional Requirements
+
+* Simple and user-friendly interface
+* Fast execution
+* Easy to understand code structure
+* Error-free gameplay logic
+
+---
+
+## Expected Output
+
+An interactive console-based Tic Tac Toe game with:
+
+* Dynamic board updates
+* Win/loss detection
+* Draw detection
+* Replay option
+* Efficient game logic implementation in C++
